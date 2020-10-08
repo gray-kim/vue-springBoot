@@ -25,7 +25,6 @@ public class UserController {
         list.add(new UserVO("LSH", "010-9999-1111"));
 
         resp.setResponse(list);
-        
         return resp;
     }
 
